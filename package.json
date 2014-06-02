@@ -1,0 +1,27 @@
+{
+  "name": "nextelection.org",
+  "version": "0.0.1",
+  "description": "When can we right our wrongs?",
+  "author": {
+    "name": "Simon Elvery",
+    "email": "simon@elvery.net",
+    "url": "http://elvery.net"
+  },
+  "devDependencies": {
+    "brfs": "^1.0.0",
+    "d3": "^3.4.8",
+    "deglobalify": "^0.2.0",
+    "domready": "^1.0.5",
+    "grunt": "~0.4.0",
+    "grunt-browserify": "~1.2.1",
+    "grunt-contrib-clean": "~0.4.0",
+    "grunt-contrib-compass": "~0.2.0",
+    "grunt-contrib-connect": "~0.3.0",
+    "grunt-contrib-copy": "~0.4.0",
+    "grunt-contrib-jshint": "~0.1.1",
+    "grunt-contrib-stylus": "~0.6.0",
+    "grunt-contrib-uglify": "~0.2.0",
+    "grunt-contrib-watch": "~0.2.0",
+    "grunt-version": "^0.3.0"
+  }
+}
